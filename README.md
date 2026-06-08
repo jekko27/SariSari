@@ -36,7 +36,7 @@ Sari-Sari Finance
   To run this project locally, follow these steps:
 
     1 # 1. Clone the repository
-    2 git clone [your-repo-link]
+    2 git clone https://github.com/jekko27/SariSari.git
     3 cd StellarX-Workshop-PUP-May-2026-main
     4
     5 # 2. Setup the Rust Toolchain (if deploying contract)
